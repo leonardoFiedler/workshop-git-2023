@@ -13,3 +13,5 @@
 [5. Aprenda conceitos de git, não comandas (Paulo Gonçalves)](https://github.com/PauloGoncalvesBH/treinamento-git)
 
 [6. Learn Git Branching](https://learngitbranching.js.org)
+
+[7. Oh My Git](https://ohmygit.org/)
